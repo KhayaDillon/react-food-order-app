@@ -1,4 +1,4 @@
-import Input from '../../UI/input'
+import Input from '../../UI/Input'
 
 import styles from '../Styles.module.css'
 
